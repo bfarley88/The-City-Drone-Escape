@@ -1,6 +1,6 @@
 # The-City-Drone-Escape
 
-Blender 3D - Unity 2D - C#
+###Blender 3D - Unity 2D - C#
 
 TODO:
 
@@ -33,9 +33,8 @@ Other
 
 ----------------------
 
-The City: Drone Escape is an original Drone Shooter Game, made in Unity, rendered out entirely in Blender! 
-The art style is non-photorealistic topdown 2d renders from the Blender Render engine. (Similar to GTA II)
-Blog: https://citydrone.tumblr.com
+##The City: Drone Escape is an original Drone Shooter Game, made in Unity, rendered out entirely in Blender! The art style is non-photorealistic topdown 2d renders from the Blender Render engine. (Similar to GTA II)
+###Blog: https://citydrone.tumblr.com
 
-by Brandon Farley (Farley CG Studios)
-https://twitter.com/farcgs
+###by Brandon Farley (Farley CG Studios)
+###https://twitter.com/farcgs
