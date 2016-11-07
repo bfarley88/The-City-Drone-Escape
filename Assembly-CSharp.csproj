@@ -46,9 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BulletCtrl.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Car1Controller.cs" />
      <Compile Include="Assets\Scripts\CubeDroneController.cs" />
+     <Compile Include="Assets\Scripts\DestroyWithDelay.cs" />
      <Compile Include="Assets\Scripts\Drone2dController.cs" />
      <Compile Include="Assets\Scripts\EvilTankController.cs" />
      <Compile Include="Assets\Scripts\MenuCtrl.cs" />
