@@ -4,21 +4,21 @@ TODO:
 
 (Short Term) 
 
-  Scripts
+Scripts
 - Virtual Joystick Input
 - Brakes and Reverse
 - Improve Flight Mechanics
 - Start Menu
 
-  Visual
+Visual
 - Create names for roads and buildings
 - Improve GUI
 
-  Audio
+Audio
 - Create sound effects
 - Create music or get license
 
-  Other
+Other
 - Improve building colliders  
 
 
