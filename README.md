@@ -11,6 +11,8 @@ Scripts
 - Brakes and Reverse
 - Improve Flight Mechanics
 - Start Menu
+- Shooting
+- AI
 
 Visual
 - Create names for roads and buildings
