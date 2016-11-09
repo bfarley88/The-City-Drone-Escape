@@ -7,7 +7,7 @@
 
 ####YouTube Playlist: http://tinyurl.com/TCDE1
 
-####G+ Collection: https://plus.google.com/collection/QXFykB
+####Google Plus Collection: https://plus.google.com/collection/QXFykB
 
 ----------------------
 ![tcde](https://cloud.githubusercontent.com/assets/5951330/20052209/cfb069b6-a487-11e6-8c78-812e336d2e19.png)
