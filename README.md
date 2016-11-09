@@ -7,7 +7,6 @@
 
 ####YouTube Playlist: http://tinyurl.com/TCDE1
 
-####by Brandon Farley (Farley CG Studios) https://twitter.com/farcgs
 
 ----------------------
 ![tcde](https://cloud.githubusercontent.com/assets/5951330/20052209/cfb069b6-a487-11e6-8c78-812e336d2e19.png)
@@ -40,3 +39,9 @@ Other
 
 - Android, PC, and Mac release
 - Build Community
+
+
+----------------------
+####by Brandon Farley (Farley CG Studios) 
+####https://twitter.com/farcgs
+####https://about.me/brandonfarley/
