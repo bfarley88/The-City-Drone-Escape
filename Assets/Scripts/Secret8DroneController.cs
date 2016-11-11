@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Secret8DroneController : MonoBehaviour {
 
-	float speedForce = 15f;
+	float speedForce = 26f;
 	float torqueForce = 4f;
 
 	// Use this for initialization
