@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Drone2dController : MonoBehaviour {
 
-	float speedForce = 13f;
+	float speedForce = 19f;
 	float torqueForce = 6f;
 
 	// Use this for initialization
