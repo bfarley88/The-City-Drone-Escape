@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DX01Controller : MonoBehaviour {
+public class DX01driveController : MonoBehaviour {
 
 	float speedForce = 40f;
 	float torqueForce = 3f;

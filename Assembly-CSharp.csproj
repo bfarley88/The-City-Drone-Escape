@@ -50,13 +50,14 @@
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Car1Controller.cs" />
      <Compile Include="Assets\Scripts\CubeDroneController.cs" />
-     <Compile Include="Assets\Scripts\DX01Controller.cs" />
-     <Compile Include="Assets\Scripts\DX01aController.cs" />
+     <Compile Include="Assets\Scripts\DX01driveController.cs" />
+     <Compile Include="Assets\Scripts\DX01flyController.cs" />
      <Compile Include="Assets\Scripts\DestroyWithDelay.cs" />
      <Compile Include="Assets\Scripts\Drone2dController.cs" />
      <Compile Include="Assets\Scripts\EvilTankController.cs" />
      <Compile Include="Assets\Scripts\MenuCtrl.cs" />
      <Compile Include="Assets\Scripts\PackageDroneController.cs" />
+     <Compile Include="Assets\Scripts\PaperDroneController.cs" />
      <Compile Include="Assets\Scripts\Secret8DroneController.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>

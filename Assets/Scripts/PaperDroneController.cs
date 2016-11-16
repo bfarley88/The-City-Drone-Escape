@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DX01aController : MonoBehaviour {
+public class PaperDroneController : MonoBehaviour {
 
-	float speedForce = 22f;
-	float torqueForce = 7f;
+	float speedForce = 26f;
+	float torqueForce = 14f;
 
 	// Use this for initialization
 	void Start () {
