@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class CubeDroneController : MonoBehaviour {
 
-	float speedForce = 17f;
-	float torqueForce = 3f;
+	float speedForce = 13f;
+	float torqueForce = 5f;
 
 	// Use this for initialization
 	void Start () {
