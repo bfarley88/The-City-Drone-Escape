@@ -50,3 +50,5 @@ Other
 ####by Brandon Farley (Farley CG Studios) 
 ####https://twitter.com/farcgs
 ####https://about.me/brandonfarley/
+
+![vr](https://cloud.githubusercontent.com/assets/5951330/20641272/4d6ccd10-b3a9-11e6-92f7-16dc458da15b.gif)
