@@ -3,7 +3,7 @@
 
 ####The City: Drone Escape is an original Drone Shooter Game, made in Unity, rendered out entirely in Blender! The art style is non-photorealistic topdown 2d renders from the Blender Render engine. (Similar to GTA II)
 
-![thecityshowcase](https://cloud.githubusercontent.com/assets/5951330/20436600/c1c8e62a-ad65-11e6-8823-518d699beb5a.png)
+![bettermap](https://cloud.githubusercontent.com/assets/5951330/20641243/c62a4238-b3a8-11e6-97bc-45ab8d8f49db.png)
 
 ----------------------
 
