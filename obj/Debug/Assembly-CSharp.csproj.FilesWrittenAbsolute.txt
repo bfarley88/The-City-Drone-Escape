@@ -44,3 +44,24 @@
 /Users/farcgs/Google Drive/2D Game Assets/Game/The City - Drone Escape/Temp/bin/Debug/Mono.Cecil.Mdb.dll
 /Users/farcgs/Google Drive/2D Game Assets/Game/The City - Drone Escape/Temp/bin/Debug/Assembly-CSharp.dll.mdb
 /Users/farcgs/Google Drive/2D Game Assets/Game/The City - Drone Escape/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/obj/Debug/Assembly-CSharp.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEditor.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Mono.Cecil.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Unity.DataContract.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/farcgs/Google Drive/2D Game Assets/Game/Bitbucket/The-City-Drone-Escape/Temp/bin/Debug/Mono.Cecil.Mdb.dll

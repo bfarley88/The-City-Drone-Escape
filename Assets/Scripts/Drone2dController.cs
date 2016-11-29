@@ -7,6 +7,9 @@ public class Drone2dController : MonoBehaviour {
 	float speedForce = 13f;
 	float torqueForce = 6f;
 
+	public Transform firePoint;
+	public GameObject Bullet;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -21,6 +24,11 @@ public class Drone2dController : MonoBehaviour {
 		Rigidbody2D rb = GetComponent<Rigidbody2D>();
 		if(Input.GetButton("AButton")) {
 			rb.AddForce( transform.up * speedForce );
+
+			if(Input.GetButton("XButton"))
+			{
+				Instantiate(Bullet, firePoint.position, firePoint.rotation);
+			}
 		}
 
 		rb.AddTorque( Input.GetAxis("LeftJoystickHorizontal") * torqueForce );

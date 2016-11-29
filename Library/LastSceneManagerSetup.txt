@@ -2,3 +2,12 @@ sceneSetups:
 - path: Assets/Drone01.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/D2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/D3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/D4.unity
+  isLoaded: 0
+  isActive: 0
