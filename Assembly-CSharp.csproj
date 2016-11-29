@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BulletController.cs" />
      <Compile Include="Assets\Scripts\BulletCtrl.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Car1Controller.cs" />
@@ -58,6 +59,7 @@
      <Compile Include="Assets\Scripts\MenuCtrl.cs" />
      <Compile Include="Assets\Scripts\PackageDroneController.cs" />
      <Compile Include="Assets\Scripts\PaperDroneController.cs" />
+     <Compile Include="Assets\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\Scripts\Secret8DroneController.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
